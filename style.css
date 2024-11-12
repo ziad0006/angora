@@ -1,0 +1,26 @@
+.quotes {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+    margin: 53px 0px;
+}
+
+p {
+    font-size: 35px;
+
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(63, 118, 63);
+}
